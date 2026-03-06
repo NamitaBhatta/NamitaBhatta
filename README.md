@@ -1,4 +1,4 @@
-## HEY THERE! I'm **Namita (नमिता)**!🌸
+#HEY THERE! I'm **Namita (नमिता)**!🌸
 
 
 - 🎓 Computer Engineer 
