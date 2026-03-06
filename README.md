@@ -1,4 +1,4 @@
-## Hi there 👋
+### HEY THERE! I am Namita नमिता- Computer Engineer. Thanks for stopping by!👋
 
 <!--
 **NamitaBhatta/NamitaBhatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
