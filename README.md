@@ -3,7 +3,7 @@
 
 - 🎓 Computer Engineer 
 - 🤖 Exploring Data and AI.
-- 📫 Reach me at: namitabhatt0910@gmail.com
+- 📫 Reach me at: namitabhatta0910@gmail.com
 
 
 <h2>💻 Tech Stack</h2>
